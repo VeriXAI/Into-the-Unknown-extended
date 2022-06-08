@@ -1,4 +1,5 @@
-# Into the Unknown
+
+# Into the Unknown (Extended)
 
 MISSING!!
 
@@ -50,15 +51,15 @@ Here replace the `...` with the absolute path to your clone of the repository.
 
 # Recreation of the results
 
-To obtain the results from the conference version of the paper [Into the Unknown: Active Monitoring of Neural Networks](https://arxiv.org/pdf/2009.06429), published at [RV 2021](https://uva-mcps-lab.github.io/RV21/), please be referred to the [repository](https://github.com/VeriXAI/Into-the-Unknown)
+To obtain the results from the conference version of the paper [Into the Unknown: Active Monitoring of Neural Networks](https://arxiv.org/pdf/2009.06429), published at [RV 2021](https://uva-mcps-lab.github.io/RV21/), please be referred to the [repository](https://github.com/VeriXAI/Into-the-Unknown).
 
 Below we describe how to obtain the results shown in section 7.3 of the journal version of the paper.
-(All models, data and figures can be found in `abstraction_trainer_experiment_results`)
+Moreover, all models, data and figures can be found in `abstraction_trainer_experiment_results`.
 
 
 ## Reproduce the Experiment
 
-To generate the models and the data used in the experiments `run/train_experiment_into_the_unknown_extended.py`.
+To generate the models and the data used in the experiments run `run/train_experiment_into_the_unknown_extended.py`.
 
 
 ## Evaluation
