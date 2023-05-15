@@ -1,6 +1,4 @@
-
 # Into the Unknown (Extended)
-
 
 This repository contains the implementation and data used in the paper "Into the Unknown: Active Monitoring of Neural Networks (Extended)".
 
@@ -25,12 +23,12 @@ Here replace the `...` with the absolute path to your clone of the repository.
 
 - [`MNIST`](https://github.com/VeriXAI/Outside-the-Box/tree/master/data/MNIST)
 - [`Fashion MNIST`](https://github.com/VeriXAI/Outside-the-Box/tree/master/data/Fashion_MNIST)
-- [`GTSRB`](https://github.com/VeriXAI/Outside-the-Box/tree/master/data/GTSRB) (You need to manually extract the file `train.zip` because the content is too large for Github.)
+- [`GTSRB`](https://github.com/VeriXAI/Outside-the-Box/tree/master/data/GTSRB) (You need to manually extract the file `train.zip` because the content is too large for GitHub.)
 
 
 # Recreation of the results
 
-To obtain the results from the conference version of the paper [Into the Unknown: Active Monitoring of Neural Networks](https://arxiv.org/pdf/2009.06429), published at [RV 2021](https://uva-mcps-lab.github.io/RV21/), please be referred to the [repository](https://github.com/VeriXAI/Into-the-Unknown).
+To obtain the results from the conference version of the paper [Into the Unknown: Active Monitoring of Neural Networks](https://arxiv.org/pdf/2009.06429), published at [RV 2021](https://uva-mcps-lab.github.io/RV21/), see [this repository](https://github.com/VeriXAI/Into-the-Unknown).
 
 Below we describe how to obtain the results shown in section 7.3 of the journal version of the paper.
 Moreover, all models, data and figures can be found in `abstraction_trainer_experiment_results`.
@@ -38,10 +36,10 @@ Moreover, all models, data and figures can be found in `abstraction_trainer_expe
 
 ## Reproduce the Experiment
 
-To generate the models and the data used in the experiments run `run/train_experiment_into_the_unknown_extended.py`.
+To generate the models and the data used in the experiments, run `run/train_experiment_into_the_unknown_extended.py`.
 
 
 ## Evaluation
 
-To reproduce the figures found in section 7.3 of the paper run `run/run_experiment_into_the_unknown_extended.py`.
+To reproduce the figures found in section 7.3 of the paper, run `run/run_experiment_into_the_unknown_extended.py`.
 
