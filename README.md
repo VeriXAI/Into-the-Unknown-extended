@@ -4,7 +4,7 @@ This repository contains the implementation and data used in the paper "Into the
 
 # Installation
 
-We use Python 3.6 but other Python versions may work as well.
+You need Python 3.7 or 3.6. For newer Python versions, the packages have to be updated.
 The package requirements that need to be installed are found in the file `requirements.txt`.
 
 Since the datasets are large and have mostly been used in our previous work, we do not include most of them here.
