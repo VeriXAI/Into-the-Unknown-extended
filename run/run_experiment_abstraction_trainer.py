@@ -60,6 +60,7 @@ def generate_output_dir(directory):
         "data": os.path.join(base_path, "data"),
         "figure-projection": os.path.join(base_path, "figure-projection"),
         "network": os.path.join(base_path, "network"),
+        "training-data": os.path.join(base_path, "training-data"),
     }
     if os.path.exists(base_path):
         shutil.rmtree(base_path)
