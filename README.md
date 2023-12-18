@@ -1,6 +1,25 @@
 # Into the Unknown (Extended)
 
 This repository contains the implementation and data used in the paper "Into the Unknown: Active Monitoring of Neural Networks (Extended)".
+To cite the work, you can use:
+
+```
+@article{KueffnerLSH23,
+  author       = {Konstantin Kueffner and
+                  Anna Lukina and
+                  Christian Schilling and
+                  Thomas A. Henzinger},
+  title        = {Into the unknown: active monitoring of neural networks (extended version)},
+  journal      = {Int. J. Softw. Tools Technol. Transf.},
+  volume       = {25},
+  number       = {4},
+  pages        = {575--592},
+  publisher    = {Springer},
+  year         = {2023},
+  url          = {https://doi.org/10.1007/s10009-023-00711-4},
+  doi          = {10.1007/S10009-023-00711-4}
+}
+```
 
 # Installation
 
